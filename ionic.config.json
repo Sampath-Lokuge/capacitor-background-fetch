@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-background-fetch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
